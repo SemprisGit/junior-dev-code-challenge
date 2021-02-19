@@ -21,6 +21,7 @@ Email ethan.soper@sempris.com the link to the respository no later than **5:00pm
 
 
     Web Page Requirements
+
 -	Include a basic Header & Footer
 -	On page load, must call & return data from a publicly available API using Epics
 o	Public APIS: https://github.com/n0shake/Public-APIs
