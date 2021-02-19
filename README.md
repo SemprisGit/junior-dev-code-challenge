@@ -8,7 +8,7 @@ You have until 5:00PM Tuesday February 23rd to complete the challenge. Your code
 
 Email ethan.soper@sempris.com the link to the respository no later than **5:00pm on February 23rd**.
 
-    Codebase Requirements
+## Codebase Requirements
 
 -   React, Redux, Epics
 -	Material UI (material-table is also acceptable where applicable)
@@ -20,7 +20,7 @@ Email ethan.soper@sempris.com the link to the respository no later than **5:00pm
 - Documentation
 
 
-    Web Page Requirements
+## Web Page Requirements
 
 -	Include a basic Header & Footer
 -	On page load, must call & return data from a publicly available API using Epics
